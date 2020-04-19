@@ -1,4 +1,4 @@
-package HalfAHeart.item;
+package com.fractava.fabricmc.half_a_heart.item;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;

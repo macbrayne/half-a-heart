@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "HalfAHeart.mixin",
+  "package": "com.fractava.fabricmc.half_a_heart.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [],
   "client": [],

@@ -1,6 +1,6 @@
-package HalfAHeart;
+package com.fractava.fabricmc.half_a_heart;
 
-import HalfAHeart.item.HealthCatalystItem;
+import com.fractava.fabricmc.half_a_heart.item.HealthCatalystItem;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.item.Item;

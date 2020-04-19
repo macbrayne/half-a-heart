@@ -17,7 +17,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "HalfAHeart.HalfAHeart"
+      "com.fractava.fabricmc.half_a_heart.HalfAHeart"
     ],
     "client": [],
     "server": []
