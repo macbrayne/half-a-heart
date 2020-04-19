@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "half-a-heart",
+  "version": "${version}",
+  "name": "half-a-heart",
+  "description": "Punishes the player for dying",
+  "authors": [
+    "FRACTAVA"
+  ],
+  "contributors": [],
+  "contact": {
+    "homepage": "https://github.com/macbrayne/half-a-heart",
+    "sources": "https://github.com/macbrayne/half-a-heart"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/half-a-heart/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "HalfAHeart.HalfAHeartInit"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "half-a-heart.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}
