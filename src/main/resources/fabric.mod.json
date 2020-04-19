@@ -17,7 +17,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "HalfAHeart.HalfAHeartInit"
+      "HalfAHeart.HalfAHeart"
     ],
     "client": [],
     "server": []
