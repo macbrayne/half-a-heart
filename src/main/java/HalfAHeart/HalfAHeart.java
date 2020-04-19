@@ -1,6 +1,6 @@
 package HalfAHeart;
 
-import HalfAHeart.items.HealthCatalystItem;
+import HalfAHeart.item.HealthCatalystItem;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.item.Item;

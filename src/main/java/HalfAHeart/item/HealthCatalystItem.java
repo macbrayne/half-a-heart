@@ -1,4 +1,4 @@
-package HalfAHeart.items;
+package HalfAHeart.item;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
