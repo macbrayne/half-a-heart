@@ -5,11 +5,12 @@
   "name": "half-a-heart",
   "description": "Punishes the player for dying",
   "authors": [
-    "Florentin Schleuß"
+    "FRACTAVA GbR"
   ],
   "contributors": [],
   "contact": {
     "homepage": "https://fractava.com",
+    "issues": "https://github.com/macbrayne/half-a-heart/issues",
     "sources": "https://github.com/macbrayne/half-a-heart"
   },
   "license": "Apache-2.0",

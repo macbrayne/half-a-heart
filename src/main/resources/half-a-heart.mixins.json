@@ -2,7 +2,9 @@
   "required": true,
   "package": "com.fractava.fabricmc.half_a_heart.mixin",
   "compatibilityLevel": "JAVA_8",
-  "mixins": [],
+  "mixins": [
+    "PlayerEntityMixin"
+  ],
   "client": [],
   "server": [],
   "injectors": {
